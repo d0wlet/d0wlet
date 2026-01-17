@@ -1,4 +1,3 @@
-# [Your Name]
 **Software Developer from Turkmenistan 🇹🇲**
 
 Dedicated to high-performance systems and modern cross-platform development. Currently focusing on mastering Rust and low-level C/C++ architecture.
@@ -34,4 +33,4 @@ Dedicated to high-performance systems and modern cross-platform development. Cur
 
 ### Contact
 - **Location:** Turkmenistan
-- **GitHub:** [github.com/[YOUR_USERNAME]](https://github.com/[YOUR_USERNAME])
+- **Telegram:** [@storm_inc](https://t.me/storm_inc)
