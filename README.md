@@ -1,19 +1,21 @@
-# [Your Full Name]
-**Software Developer | Focus on Systems & Mobile Engineering**
+# [Your Name]
+**Software Engineer | Systems & Mobile Development**
 
-### Technical Expertise
-- **Languages:** Rust, C, C++, Python
-- **Web Stack:** TypeScript, JavaScript, HTML, CSS
-- **Mobile Development:** Kotlin, Dart
+### Technical Proficiency
 
----
-
-### Professional Metrics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[USER_NAME]&show_icons=true&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[USER_NAME]&layout=compact&theme=dark&hide_border=true)
+* **Systems Programming:** C, C++, Rust
+* **Scripting & Backend:** Python
+* **Web Technologies:** HTML5, CSS3, JavaScript, TypeScript
+* **Mobile Development:** Kotlin, Dart
 
 ---
 
-### Contact & Connectivity
+### GitHub Metrics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=dark&hide_border=true)
+
+---
+
+### Contact Information
+- **LinkedIn:** [linkedin.com/in/yourprofile]
 - **Email:** [your.email@example.com]
-- **LinkedIn:** [linkedin.com/in/your_profile]
