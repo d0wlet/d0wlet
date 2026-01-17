@@ -1,16 +1,19 @@
-## Hi there 👋
+# [Your Full Name]
+**Software Developer | Focus on Systems & Mobile Engineering**
 
-<!--
-**d0wlet/d0wlet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Technical Expertise
+- **Languages:** Rust, C, C++, Python
+- **Web Stack:** TypeScript, JavaScript, HTML, CSS
+- **Mobile Development:** Kotlin, Dart
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Professional Metrics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[USER_NAME]&show_icons=true&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[USER_NAME]&layout=compact&theme=dark&hide_border=true)
+
+---
+
+### Contact & Connectivity
+- **Email:** [your.email@example.com]
+- **LinkedIn:** [linkedin.com/in/your_profile]
