@@ -31,8 +31,6 @@ Dedicated to high-performance systems and modern cross-platform development. Cur
 ![](https://nirzak-streak-stats.vercel.app/?user=d0wlet&theme=one_dark_pro&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=d0wlet&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=d0wlet&layout=compact&theme=transparent&hide_border=true&title_color=00599C&text_color=ffffff)
-
 ---
 
 ### Contact
