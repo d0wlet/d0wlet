@@ -27,7 +27,9 @@ Dedicated to high-performance systems and modern cross-platform development. Cur
 ### Performance Metrics
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=d0wlet&show_icons=true&theme=transparent&hide_border=true&title_color=00599C&text_color=ffffff&icon_color=00599C)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=d0wlet&theme=transparent&hide_border=true&stroke=00599C&ring=00599C&fire=00599C&currStreakLabel=ffffff)
+![](https://github-readme-stats.vercel.app/api?username=d0wlet&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=d0wlet&theme=one_dark_pro&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=d0wlet&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=d0wlet&layout=compact&theme=transparent&hide_border=true&title_color=00599C&text_color=ffffff)
 
